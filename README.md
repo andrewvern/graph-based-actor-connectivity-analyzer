@@ -7,18 +7,6 @@ Processes large datasets with binary heap optimization
 Interactive command-line interface for user input
 Supports 11,000+ actors and 7,000+ movies
 
-Installation - 
-Clone the repository:
-bash
-Copy
-Edit
-git clone https://github.com/your-username/bacon-number-calculator.git
-cd bacon-number-calculator
-Install dependencies (if applicable):
-bash
-Copy
-Edit
-pip install -r requirements.txt
 
 Usage - 
 Run the program and enter an actor's name to compute their Bacon number:
